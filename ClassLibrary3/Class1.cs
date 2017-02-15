@@ -9,5 +9,6 @@ namespace ClassLibrary3
     public class Class1
     {
         // Here is my change DJH
+        // Here is another change MAH
     }
 }
